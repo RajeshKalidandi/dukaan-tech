@@ -30,6 +30,20 @@ A modern, responsive e-commerce dashboard built with React, TypeScript, and Tail
 - Redis
 - Celery
 
+## Screenshots
+
+### Dashboard Overview
+![Dukaan Tech Dashboard](dukaan%20tech.png)
+
+### Billing System
+![Billing System](billimg-dt.png)
+
+### Customer Management
+![Customer Management](dtcustomers.png)
+
+### Reports and Analytics
+![Reports](dt%20report.png)
+
 ## Getting Started
 
 ### Prerequisites
